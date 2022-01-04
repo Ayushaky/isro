@@ -1,0 +1,23 @@
+h1{
+  margin-left:  100px;
+  color: orange;
+  height: 50px
+
+}
+h2{
+  color: grey;
+  margin-left: 100px;
+}
+body{
+  background-color: #CFFFDC;
+  width: 70%
+
+}
+img{
+  width: 600px;
+  height: 500px;
+}
+
+p{
+font: italic 1.2em "Fira Sans", serif;
+}
